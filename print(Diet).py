@@ -1,1 +1,2 @@
 print("Diet")
+print("Hi")
